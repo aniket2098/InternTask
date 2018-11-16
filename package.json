@@ -1,0 +1,14 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Aniket Patil",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.16.4",
+    "json-is-equal": "^1.0.0",
+    "mongoose": "^4.5.9"
+  }
+}
